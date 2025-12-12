@@ -1,0 +1,10 @@
+EmpID,Name,Age,Department,Salary,Attendance,Leaves,Performance
+101,udit,21,cybersecurity,45000.0,1,1,Good
+102,Manpreet,21,IT,35000.0,2,0,Excellent
+103,Hitesh,45,Cybersecurity,50000.0,0,0,Average
+104,Rahul,29,IT,100000.0,1,0,Average
+104,rahul,35,HR,500000.0,0,0,Average
+104,rahul,35,HR,500000.0,0,0,Average
+202,dhruvika,24,IT,50000.0,0,0,Average
+105,udit bansal,20,IT,50000.0,0,0,Average
+2010,hemant,20,CSE,40000.0,0,0,Average
